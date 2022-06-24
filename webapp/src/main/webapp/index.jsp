@@ -18,6 +18,7 @@
     <hr>
     <br>
     <br>
+    <h1> tomcat </h1>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
