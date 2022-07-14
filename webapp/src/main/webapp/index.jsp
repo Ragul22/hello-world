@@ -14,7 +14,8 @@
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
-    <p> Ragul </p>
+    <p>hai Ragul </p>
+    <p> welcome </p>
     <hr>
     <br>
     <br>
